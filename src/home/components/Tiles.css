@@ -1,0 +1,21 @@
+.tile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  height: 100px;
+}
+
+.black-tile {
+  background-color: #b58863;
+}
+
+.white-tile {
+  background-color: #f0d9b5;
+}
+
+.tile img {
+  width: 100px;
+  height: 90px;
+  align-self: center;
+}
